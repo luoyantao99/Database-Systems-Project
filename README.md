@@ -2,9 +2,13 @@
 
 Our product is a database query web platform based on the ThinkCMF open source framework structure, developed using php 8.1.2, with user access authentication and other basic functions. Due to the use of ThinkCMF framework, the access to the MySQL database was implemented using Object-Relational Mapping (ORM). The queries and manipulations of data from a database were done using an object-oriented paradigm, without the need for SQL commands. 
 
-![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_image/login.png)
+## Demo
+![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/animated.gif)
 
-![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_image/ORM.png)
+## Screenshots
+![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/login.png)
+
+![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/ORM.png)
 
 ## How to deploy
 
