@@ -1,6 +1,6 @@
 # Database-Systems-Project
 
-Our product is a database query web platform based on the thinkcmf open source framework structure, developed using php 8.1.2, with user access authentication and other basic functions. 
+Our product is a database query web platform based on the ThinkCMF open source framework structure, developed using php 8.1.2, with user access authentication and other basic functions. Due to the use of ThinkCMF framework, the access to the MySQL database was implemented using Object-Relational Mapping (ORM). The queries and manipulations of data from a database were done using an object-oriented paradigm, without the need for SQL commands. 
 
 ## How to deploy
 
