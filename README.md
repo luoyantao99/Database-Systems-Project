@@ -8,16 +8,16 @@ Step 1 – Installing Nginx
 
 Nginx is one of the most popular web servers in the world and is responsible for hosting some of the largest and busiest sites on the internet. It can be used as a reverse proxy or web server and often uses fewer resources than Apache. 
 
-```sh
-sudo apt update
-sudo apt install nginx
+```
+$ sudo apt update
+$ sudo apt install nginx
 ```
 
 Step 2 — Installing MySQL
 
 MySQL is an open-source database management system, commonly installed as part of the popular LAMP (Linux, Apache, MySQL, PHP/Python/Perl) stack. It implements the relational model and uses SQL to manage its data.
 
-```console
+```
 $ sudo apt update
 $ sudo apt install mysql-server
 $ sudo systemctl start mysql.service
@@ -29,7 +29,7 @@ Nginx doesn’t have built-in support for processing PHP files. PHP-FPM (“fast
 
 Run the following commands to install PHP and PHP FPM packages:
 
-```console
+```
 $ sudo apt update
 $ sudo apt install php-fpm
 ```
