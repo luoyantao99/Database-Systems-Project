@@ -50,7 +50,7 @@ under machine learning folder.
 
 ## References
 
-https://github.com/thinkcmf/thinkcmf
-https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
-https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
-https://linuxize.com/post/how-to-install-php-on-ubuntu-20-04/
+https://github.com/thinkcmf/thinkcmf <br />
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04 <br />
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 <br />
+https://linuxize.com/post/how-to-install-php-on-ubuntu-20-04/ <br />
