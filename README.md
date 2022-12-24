@@ -8,7 +8,7 @@ Our product is a database query web platform based on the ThinkCMF open source f
 
 ## How to deploy
 
-Step 1 – Installing Nginx
+### Step 1 – Installing Nginx
 
 Nginx is one of the most popular web servers in the world and is responsible for hosting some of the largest and busiest sites on the internet. It can be used as a reverse proxy or web server and often uses fewer resources than Apache. 
 
@@ -17,7 +17,7 @@ $ sudo apt update
 $ sudo apt install nginx
 ```
 
-Step 2 — Installing MySQL
+### Step 2 — Installing MySQL
 
 MySQL is an open-source database management system, commonly installed as part of the popular LAMP (Linux, Apache, MySQL, PHP/Python/Perl) stack. It implements the relational model and uses SQL to manage its data.
 
@@ -27,7 +27,7 @@ $ sudo apt install mysql-server
 $ sudo systemctl start mysql.service
 ```
 
-Step 3 — Installing PHP 8.1.2 with Nginx
+### Step 3 — Installing PHP 8.1.2 with Nginx
 
 Nginx doesn’t have built-in support for processing PHP files. PHP-FPM (“fastCGI process manager”) is used to handle the PHP files.
 
@@ -41,7 +41,7 @@ $ sudo apt install php-fpm
 
 ## Machine Learning
 
-our model takes preprocessing
+Our model takes preprocessing
 steps and choose 80% as the train set from the women's e-commerce
 dataset. We used nltk package to conduct basic NLP processes and 
 then compared clustering methods of the result. Our model is able to
