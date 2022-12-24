@@ -6,9 +6,9 @@ Our product is a database query web platform based on the ThinkCMF open source f
 ![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/animated.gif)
 
 ## Screenshots
-![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/login.png)
+![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/php.png)
 
-![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/ORM.png)
+![alt text](https://github.com/luoyantao99/Database-Systems-Project/blob/main/README_images/web_template.png)
 
 ## How to deploy
 
