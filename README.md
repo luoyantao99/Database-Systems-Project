@@ -23,9 +23,21 @@ $ sudo apt install mysql-server
 $ sudo systemctl start mysql.service
 ```
 
+Step 3 — Installing PHP 8.1.2 with Nginx
+
+Nginx doesn’t have built-in support for processing PHP files. PHP-FPM (“fastCGI process manager”) is used to handle the PHP files.
+
+Run the following commands to install PHP and PHP FPM packages:
+
+```console
+sudo apt update
+sudo apt install php-fpm
+```
 
 
-The machine learning part: our model takes preprocessing
+## Machine Learning
+
+our model takes preprocessing
 steps and choose 80% as the train set from the women's e-commerce
 dataset. We used nltk package to conduct basic NLP processes and 
 then compared clustering methods of the result. Our model is able to
@@ -34,3 +46,10 @@ feedback.
 
 For furthur utilization of machine learning, please modify the notebook file
 under machine learning folder.
+
+
+## References
+
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+https://linuxize.com/post/how-to-install-php-on-ubuntu-20-04/
