@@ -1,5 +1,12 @@
 # Database-Systems-Project
 
+```console
+    sudo apt update
+    sudo apt install nginx
+```
+
+
+
 The machine learning part: our model takes preprocessing
 steps and choose 80% as the train set from the women's e-commerce
 dataset. We used nltk package to conduct basic NLP processes and 
